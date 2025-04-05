@@ -1,5 +1,13 @@
 ## Hi there 👋
+"I'm Prajwal Singh, a student pursuing a Bachelor's in Information Science and Engineering at MVJ College of Engineering. I'll be graduating in 2026.
 
+🎓 As a dedicated learner, I'm passionate about the ever-evolving world of technology. My academic journey has not only equipped me with a solid foundation in Information Science but has also ignited a curiosity to explore its limitless possibilities.
+
+🌱 I'm all about tech and learning. My college journey is shaping me into a tech enthusiast with a knack for problem-solving and coding.
+
+🚀 I believe in consistent growth. I'm excited to connect with fellow learners and professionals who share my love for technology and its impact.
+
+🔍 As I approach graduation, I'm eager to turn my classroom insights into real-world solutions.
 <!--
 **iprajwalsingh7/iprajwalsingh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
