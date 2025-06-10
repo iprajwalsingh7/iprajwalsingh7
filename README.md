@@ -31,10 +31,7 @@ I'm **Prajwal Singh**, an aspiring software engineer currently pursuing a **Bach
 
 ---
 
-  <img src="https://komarev.com/ghpvc/?username=iprajwalsingh7&style=flat-square&color=blue" alt="Profile Views" />
-
----
-
 <p align="center"><i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i></p>
 
 ---
+ <img src="https://komarev.com/ghpvc/?username=iprajwalsingh7&style=flat-square&color=blue" alt="Profile Views" />
