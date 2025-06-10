@@ -1,24 +1,40 @@
-## Hi there 👋
-"I'm Prajwal Singh, a student pursuing a Bachelor's in Information Science and Engineering at MVJ College of Engineering. I'll be graduating in 2026.
+<!-- Typing SVG -->
 
-🎓 As a dedicated learner, I'm passionate about the ever-evolving world of technology. My academic journey has not only equipped me with a solid foundation in Information Science but has also ignited a curiosity to explore its limitless possibilities.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=50&color=00F7FF&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Prajwal;From+Bangalore%2C+Bharat+%F0%9F%87%AE%F0%9F%87%B3;Tech+Enthusiast+%F0%9F%9A%80;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" /></a>
 
-🌱 I'm all about tech and learning. My college journey is shaping me into a tech enthusiast with a knack for problem-solving and coding.
+<h1 align="center">Welcome to my GitHub 👨‍💻</h1>
 
-🚀 I believe in consistent growth. I'm excited to connect with fellow learners and professionals who share my love for technology and its impact.
 
-🔍 As I approach graduation, I'm eager to turn my classroom insights into real-world solutions.
-<!--
-**iprajwalsingh7/iprajwalsingh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+I'm **Prajwal Singh**, an aspiring software engineer currently pursuing a **Bachelor's in Information Science and Engineering** at **MVJ College of Engineering**, Bangalore (Class of 2026).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 Passionate about tech, development, and building real-world solutions.
+- 💡 I enjoy solving problems, learning new tools, and exploring the endless possibilities of tech.
+- 🧠 Currently focused on mastering **DSA**, **Web Development**, and **Core CS Concepts**.
+- 🚀 Always seeking opportunities to collaborate on innovative projects and grow consistently.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+</p>
+
+---
+
+  <img src="https://komarev.com/ghpvc/?username=iprajwalsingh7&style=flat-square&color=blue" alt="Profile Views" />
+
+---
+
+<p align="center"><i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i></p>
+
+---
