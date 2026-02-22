@@ -15,7 +15,7 @@ I'm **Prajwal Singh**, a Backend-focused Software Engineering student currently 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 <p>
