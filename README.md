@@ -1,7 +1,3 @@
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Prajwal+Singh;Backend+Developer+%7C+Java+%7C+Spring+Boot;Elasticsearch+%7C+System+Design+Learner;Consistently+Improving+🚀" />
-</p>
 
 <h1 align="center">Welcome to my GitHub</h1>
 
@@ -50,18 +46,6 @@ I'm **Prajwal Singh**, a Backend-focused Software Engineering student currently 
 - Understanding **JVM internals & backend performance**
 - Learning **System Design fundamentals**
 - Building backend-heavy projects
-
----
-
-##  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iprajwalsingh7&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-<p align="center"><i>"Build systems that scale. Write code that lasts."</i></p>
 
 ---
 
