@@ -1,54 +1,26 @@
+# Hi, I'm Prajwal Singh
 
-<h1 align="center">Welcome to my GitHub</h1>
+**Backend Engineer · Applied AI**
 
----
+I build reliable backend systems and practical AI applications, from natural-language workflows to retrieval-augmented generation (RAG) and real-time event processing.
 
-##  About Me
+- **Junior Software Engineer (Backend) at Option Circle**, working on trading automation and execution systems. Previously built an LLM workflow that converts natural-language instructions into validated trading bots.
+- **B.E. in Information Science and Engineering**, MVJ College of Engineering, Bengaluru · Class of 2026.
+- Focused on grounded AI responses, API design, concurrency, and reliable event-driven systems.
 
-I'm **Prajwal Singh**, a Backend-focused Software Engineering student currently pursuing a **B.E. in Information Science and Engineering** at **MVJ College of Engineering, Bengaluru (Class of 2026)**.
+## Selected projects
 
--  Currently working as a **Backend Intern at Option Circle**
--  Working with **Spring Boot, MySQL, Elasticsearch**
--  Practicing **Data Structures & Algorithms** consistently
--  Exploring **Microservices, Search Systems, and Backend Architecture**
--  Focused on building scalable and production-oriented systems
+- **Margin** *(private)* — A retrieval-augmented generation (RAG) application and my recent work in applied AI.
+- **[TickPulse](https://github.com/iprajwalsingh7/tickpulse)** — Real-time market alerts and trailing-stop evaluation using Redis Streams and atomic Lua scripts, with SSE updates and PostgreSQL history.
+- **[Cooked](https://github.com/iprajwalsingh7/cooked-v2-spring)** — An AI application combining GitHub, Reddit, and Spotify data with Gemini responses and Spotify OAuth integration.
 
----
+## Tech stack
 
-## Tech Stack
+| Area | Technologies |
+| --- | --- |
+| Applied AI | Gemini API, structured outputs, RAG, LLM API integration |
+| Backend | Python, Java, Spring Boot, REST APIs, OAuth 2.0 |
+| Data & messaging | PostgreSQL, MySQL, Redis, Redis Streams, Kafka, Elasticsearch, Lua |
+| Tools & testing | Docker, Git, Linux, Maven, Testcontainers |
 
-### Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-</p>
-
-### Backend & Databases
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-</p>
-
-- Spring Boot  
-- REST APIs  
-- MySQL  
-- Elasticsearch  
-- Docker  
-
----
-
-##  Current Focus
-
-- Improving problem-solving with **DSA (Java)**
-- Understanding **JVM internals & backend performance**
-- Learning **System Design fundamentals**
-- Building backend-heavy projects
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iprajwalsingh7&style=flat-square&color=blue" alt="Profile Views" />
-</p>
+[LinkedIn](https://www.linkedin.com/in/iprajwalsingh7/) · [Email](mailto:prajwalsingh0605@gmail.com)
